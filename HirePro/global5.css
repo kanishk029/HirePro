@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-orbitron: Orbitron;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-steelblue: #4f709c;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+  --color-darkgray-100: #ada8a8;
+  --color-gray: #001c30;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-mini: 15px;
+}

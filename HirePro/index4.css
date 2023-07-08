@@ -1,0 +1,347 @@
+.desktop-4-child {
+  left: 0;
+  width: 1440px;
+}
+.desktop-4-child,
+.desktop-4-child1,
+.desktop-4-item,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  background-color: var(--color-gray);
+  height: 85px;
+}
+.desktop-4-item {
+  left: 286px;
+  border-radius: var(--br-8xs);
+  width: 158px;
+}
+.desktop-4-child1,
+.rectangle-div {
+  width: 162px;
+}
+.rectangle-div {
+  left: 463px;
+  border-radius: var(--br-8xs);
+  box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.25), -5px 0 4px rgba(0, 0, 0, 0.25);
+}
+.desktop-4-child1 {
+  left: 641px;
+}
+.why {
+  position: absolute;
+  top: 28px;
+  left: 699px;
+}
+.desktop-4-child2 {
+  position: absolute;
+  top: 0;
+  left: 1258px;
+  background-color: var(--color-gray);
+  width: 162px;
+  height: 85px;
+}
+.codiconaccount {
+  position: absolute;
+  top: 18px;
+  left: 1328px;
+  width: 49px;
+  height: 49px;
+  overflow: hidden;
+}
+.find,
+.logo,
+.post {
+  position: absolute;
+  top: 28px;
+  left: 341px;
+}
+.find,
+.logo {
+  left: 119px;
+}
+.find {
+  left: 519px;
+}
+.desktop-4-child3 {
+  position: absolute;
+  top: 994px;
+  left: 0;
+  background-color: var(--color-darkgray-200);
+  width: 1440px;
+  height: 30px;
+}
+.hire-pro {
+  position: absolute;
+  top: 1003px;
+  left: 20px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkslategray-300);
+}
+.image-1-icon {
+  position: absolute;
+  top: 0;
+  left: 85px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.image-2-icon,
+.image-3-icon,
+.image-4-icon,
+.image-5-icon {
+  position: absolute;
+  top: 0;
+  left: 60px;
+  width: 20px;
+  height: 25px;
+  object-fit: cover;
+}
+.image-3-icon,
+.image-4-icon,
+.image-5-icon {
+  left: 30px;
+  width: 25px;
+}
+.image-4-icon,
+.image-5-icon {
+  left: 0;
+}
+.image-5-icon {
+  left: 115px;
+}
+.image-1-parent {
+  position: absolute;
+  top: 996px;
+  left: 1280px;
+  width: 140px;
+  height: 25px;
+  overflow: hidden;
+}
+.line-div {
+  position: absolute;
+  top: 998.5px;
+  left: 1261.5px;
+  border-right: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 21px;
+}
+.desktop-4-child4,
+.desktop-4-child5 {
+  position: absolute;
+  top: 251px;
+  left: 119px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 626px;
+  height: 53px;
+}
+.desktop-4-child5 {
+  left: 765px;
+  width: 430px;
+}
+.find-candidates,
+.job-role,
+.location {
+  position: absolute;
+  top: 263px;
+  left: 143px;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.find-candidates,
+.location {
+  left: 780px;
+}
+.find-candidates {
+  top: 163px;
+  left: 119px;
+  font-size: 36px;
+  display: inline-block;
+  width: 457px;
+  height: 48px;
+}
+.desktop-4-child6 {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  background-color: var(--color-gray);
+  width: 246px;
+  height: 85px;
+}
+.hirepro {
+  position: absolute;
+  top: 28px;
+  left: 129px;
+  font-family: var(--font-orbitron);
+}
+.vector-icon {
+  position: absolute;
+  height: 3.81%;
+  width: 2.71%;
+  top: 2.25%;
+  right: 91.88%;
+  bottom: 93.95%;
+  left: 5.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 896px;
+  left: 0;
+  width: 1440px;
+  height: 127px;
+}
+.about-us,
+.were-here-to {
+  font-size: var(--font-size-mini);
+  color: var(--color-darkslategray-200);
+}
+.were-here-to {
+  position: absolute;
+  top: 912px;
+  left: 29px;
+}
+.about-us {
+  margin: 0;
+}
+.security {
+  margin: 0;
+}
+.about-us-security-container,
+.resources-hiring-resources-container {
+  position: absolute;
+  top: 912px;
+  left: 1155px;
+  display: inline-block;
+  width: 80px;
+  height: 64px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-dimgray);
+}
+.resources-hiring-resources-container {
+  left: 1288px;
+  width: 87px;
+  height: 75px;
+}
+.visit-our-help {
+  position: absolute;
+  top: 933px;
+  left: 29px;
+  font-size: var(--font-size-2xs);
+  color: var(--color-dimgray);
+}
+.desktop-4-child9 {
+  position: absolute;
+  top: 954px;
+  left: 29px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-linen);
+  width: 71px;
+  height: 23px;
+}
+.help-center {
+  position: absolute;
+  top: 959px;
+  left: 35px;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  color: var(--color-darkslategray-200);
+}
+.desktop-4-child10 {
+  position: absolute;
+  top: 954px;
+  left: 112px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-linen);
+  width: 93px;
+  height: 23px;
+}
+.contact-support {
+  position: absolute;
+  top: 959px;
+  left: 118px;
+  font-size: var(--font-size-2xs);
+  font-weight: 600;
+  color: var(--color-darkslategray-200);
+}
+.desktop-4-child11 {
+  position: absolute;
+  top: 248px;
+  left: 1208px;
+  border-radius: var(--br-3xs);
+  background-color: #133f79;
+  width: 145px;
+  height: 55px;
+  cursor: pointer;
+}
+.search {
+  position: absolute;
+  top: 263px;
+  left: 1245px;
+  display: inline-block;
+  width: 215px;
+  height: 66px;
+}
+.desktop-4-child12 {
+  position: absolute;
+  top: 566px;
+  left: 131px;
+  border-radius: var(--br-3xs) var(--br-3xs) 0 0;
+  background-color: var(--color-white);
+  width: 1179px;
+  height: 330px;
+}
+.empower-yourself-with-container {
+  position: absolute;
+  top: 722px;
+  left: 222px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 703px;
+  height: 121px;
+}
+.wpfglobe-earth-icon {
+  position: absolute;
+  top: 631px;
+  left: 1035px;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+}
+.desktop-4-child13 {
+  position: absolute;
+  top: 601px;
+  left: 131px;
+  border-radius: 0 var(--br-3xs) var(--br-3xs) 0;
+  background-color: #e0e0e0;
+  width: 778px;
+  height: 101px;
+}
+.be-the-first {
+  position: absolute;
+  top: 632px;
+  left: 226px;
+  font-size: 32px;
+  color: #1d3e95;
+}
+.desktop-4 {
+  position: relative;
+  background-color: var(--color-linen);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+input {border:0;outline:0;}
+input:focus {outline:none!important;}

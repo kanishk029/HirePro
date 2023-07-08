@@ -1,0 +1,373 @@
+.desktop-3-child {
+  position: absolute;
+  top: 202px;
+  left: 439px;
+  background-color: var(--color-white);
+  border: 1px solid #434343;
+  box-sizing: border-box;
+  width: 519px;
+  height: 89px;
+}
+.desktop-3-item {
+  left: 0;
+  width: 1440px;
+}
+.desktop-3-child1,
+.desktop-3-child2,
+.desktop-3-inner,
+.desktop-3-item {
+  position: absolute;
+  top: 0;
+  background-color: var(--color-gray-100);
+  height: 85px;
+}
+.desktop-3-inner {
+  left: 286px;
+  border-radius: var(--br-8xs);
+  width: 158px;
+}
+.desktop-3-child1,
+.desktop-3-child2 {
+  left: 463px;
+  width: 162px;
+}
+.desktop-3-child2 {
+  left: 641px;
+}
+.why {
+  position: absolute;
+  top: 28px;
+  left: 699px;
+}
+.desktop-3-child3 {
+  position: absolute;
+  top: 250px;
+  left: 119px;
+  width: 601px;
+  height: 176px;
+}
+.desktop-3-child4,
+.image {
+  position: absolute;
+  display: none;
+}
+.desktop-3-child4 {
+  top: 179px;
+  left: 908px;
+  background-color: var(--color-gray-100);
+  width: 404px;
+  height: 293px;
+}
+.image {
+  top: 297px;
+  left: 1083px;
+}
+.desktop-3-child5 {
+  position: absolute;
+  top: 563px;
+  left: 90px;
+  width: 779px;
+  height: 227px;
+}
+.find,
+.logo,
+.post {
+  position: absolute;
+  top: 28px;
+  left: 341px;
+}
+.find,
+.logo {
+  left: 119px;
+}
+.find {
+  left: 519px;
+}
+.desktop-3-child6,
+.rectangle-icon {
+  position: absolute;
+  top: 1176px;
+  left: -63px;
+  width: 1440px;
+  height: 127px;
+}
+.desktop-3-child6 {
+  top: 994px;
+  left: 0;
+  background-color: var(--color-darkgray-200);
+  height: 30px;
+}
+.hire-pro {
+  position: absolute;
+  top: 1003px;
+  left: 20px;
+  font-size: 10px;
+  color: #27374d;
+}
+.image-1-icon {
+  position: absolute;
+  top: 0;
+  left: 85px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.image-2-icon,
+.image-3-icon,
+.image-4-icon,
+.image-5-icon {
+  position: absolute;
+  top: 0;
+  left: 60px;
+  width: 20px;
+  height: 25px;
+  object-fit: cover;
+}
+.image-3-icon,
+.image-4-icon,
+.image-5-icon {
+  left: 30px;
+  width: 25px;
+}
+.image-4-icon,
+.image-5-icon {
+  left: 0;
+}
+.image-5-icon {
+  left: 115px;
+}
+.image-1-parent {
+  position: absolute;
+  top: 996px;
+  left: 1280px;
+  width: 140px;
+  height: 25px;
+  overflow: hidden;
+}
+.line-div {
+  position: absolute;
+  top: 998.5px;
+  left: 1261.5px;
+  border-right: 1px solid #374458;
+  box-sizing: border-box;
+  width: 1px;
+  height: 21px;
+}
+.desktop-3-child7 {
+  position: absolute;
+  top: 308px;
+  left: 439px;
+  border-radius: var(--br-8xs);
+  background-color: #f5efe7;
+  width: 519px;
+  height: 660px;
+}
+.email-address-,
+.or,
+.ready-to-take {
+  position: absolute;
+  top: 332px;
+  left: 464px;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+}
+.email-address-,
+.or {
+  top: 609px;
+  left: 691px;
+  font-size: 11px;
+}
+.email-address- {
+  top: 497px;
+  left: 464px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.by-creating-an {
+  margin: 0;
+}
+.by-creating-an-container,
+.create-an-account {
+  position: absolute;
+  left: 464px;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+}
+.by-creating-an-container {
+  top: 431px;
+  font-size: 12px;
+}
+.create-an-account {
+  top: 375px;
+  font-size: var(--font-size-sm);
+}
+.sign-in {
+  position: absolute;
+  top: 214px;
+  left: 620px;
+  font-size: 54px;
+  font-weight: 500;
+  color: var(--color-darkslateblue-100);
+  display: inline-block;
+  width: 200px;
+  height: 77px;
+}
+.desktop-3-child8 {
+  position: absolute;
+  top: 0;
+  left: 40px;
+  background-color: var(--color-gray-100);
+  width: 246px;
+  height: 85px;
+}
+.hirepro,
+.hirepro1,
+.hirepro2 {
+  position: absolute;
+  top: 28px;
+  left: 129px;
+  font-family: var(--font-orbitron);
+}
+.hirepro1,
+.hirepro2 {
+  top: 152px;
+  left: 239px;
+}
+.hirepro2 {
+  top: 929px;
+  left: 647px;
+  color: var(--color-darkslateblue-100);
+}
+.vector-icon {
+  position: absolute;
+  height: 3.81%;
+  width: 2.71%;
+  top: 2.25%;
+  right: 91.88%;
+  bottom: 93.95%;
+  left: 5.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.desktop-3-child10,
+.desktop-3-child9 {
+  position: absolute;
+  top: 531px;
+  left: 464px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 469px;
+  height: 32px;
+}
+.desktop-3-child10 {
+  top: 669px;
+  left: 552px;
+  background-color: var(--color-darkslateblue-100);
+  width: 294px;
+}
+.continue-with-google {
+  position: absolute;
+  top: 676px;
+  left: 626px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: var(--font-inter);
+}
+.desktop-3-child11,
+.desktop-3-child12,
+.desktop-3-child13 {
+  position: absolute;
+  top: 744px;
+  left: 552px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslateblue-100);
+  border: 1px solid var(--color-darkgray-200);
+  box-sizing: border-box;
+  width: 294px;
+  height: 32px;
+}
+.desktop-3-child12,
+.desktop-3-child13 {
+  top: 811px;
+}
+.desktop-3-child13 {
+  top: 876px;
+  left: 620px;
+  width: 173px;
+  cursor: pointer;
+}
+.start {
+  position: absolute;
+  top: 884px;
+  left: 692px;
+  font-size: 13px;
+  font-weight: 500;
+}
+.continue-with-apple,
+.continue-with-linked {
+  position: absolute;
+  top: 818px;
+  left: 620px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  font-family: var(--font-inter);
+}
+.continue-with-apple {
+  top: 751px;
+  left: 631px;
+}
+.desktop-3-child14,
+.desktop-3-child15 {
+  position: absolute;
+  top: 615.5px;
+  left: 521.5px;
+  border-top: 1px solid #939393;
+  box-sizing: border-box;
+  width: 164.03px;
+  height: 1px;
+}
+.desktop-3-child15 {
+  left: 713.5px;
+  border-top: 1px solid #9e8e8e;
+}
+.desktop-3-child16 {
+  position: absolute;
+  top: 768px;
+  left: -4px;
+  background-color: rgba(0, 37, 93, 0.71);
+  width: 64px;
+  height: 226px;
+}
+.desktop-3-child17,
+.desktop-3-child18 {
+  position: absolute;
+  top: 723px;
+  left: 124px;
+  background-color: rgba(34, 115, 161, 0.39);
+  width: 64px;
+  height: 272px;
+}
+.desktop-3-child18 {
+  top: 677px;
+  left: 60px;
+  background-color: rgba(67, 128, 220, 0.61);
+  height: 318px;
+}
+.desktop-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+input {border:0;outline:0;}
+input:focus {outline:none!important;}
